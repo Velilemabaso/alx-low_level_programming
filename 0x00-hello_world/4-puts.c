@@ -2,7 +2,7 @@
 /**
  *main - prints "Programming is like building a multilingual
  *puzzle,followed by a newline.
- *Return : 0 (Success)
+ *Return: 0 (Success)
  */
 int main(void)
 {
