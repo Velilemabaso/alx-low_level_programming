@@ -37,13 +37,20 @@ max_factor = n;
 return (max_factor);
 }
 
+/**
+ * main - Entry point of the program
+ *
+ * Return: Always 0
+ */
+
 int main(void)
 {
+
 long number = 612852475143;
 long largest_prime = largest_prime_factor(number);
 
 printf("%ld\n", largest_prime);
 
 return (0);
-}
 
+}
